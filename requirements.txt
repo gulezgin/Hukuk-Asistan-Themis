@@ -1,0 +1,15 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.35.0
+
+# PDF
+PyMuPDF>=1.24.0
+
+# DOCX
+python-docx>=1.1.0
+
+# Vector DB + embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.6.0
+torch
+numpy
