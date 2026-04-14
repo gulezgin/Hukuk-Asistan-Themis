@@ -1,0 +1,8 @@
+{
+  "dim": 384,
+  "faiss_metric": "cosine",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "chunk_size": 500,
+  "files": {},
+  "total_chunks": 0
+}
