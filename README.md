@@ -1,4 +1,4 @@
-!!! BU PROJE HUKUK ASİSTANI THEMİS İÇİN GELİŞTİRİLEN ÖN PROTOTİP NİTELİĞİNDEDİR !!!
+!!! :bangbang: Bu çalışma, Hukuk Asistanı THEMIS projesinin teknik uygulanabilirliğini doğrulamak amacıyla hazırlanan bir Proof of Concept (PoC) çalışmasıdır. !!!
 
 # Hukuk Asistanı Themis
 
