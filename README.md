@@ -144,15 +144,9 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için 
 
 Herhangi bir sorunuz veya öneriniz varsa, lütfen [gulezgin](https://github.com/gulezgin) ile iletişime geçin.
 
-<img width="290" height="277" alt="Ekran görüntüsü 2026-04-09 101658" src="https://github.com/user-attachments/assets/6db7b270-a7b3-41af-9f18-b0c8315f3f53" />
 <img width="1916" height="910" alt="Ekran görüntüsü 2026-04-14 152530" src="https://github.com/user-attachments/assets/2e431d91-6ebd-4c93-94c1-4b88be9590ef" />
 <img width="1919" height="910" alt="Ekran görüntüsü 2026-04-14 152524" src="https://github.com/user-attachments/assets/951b6f8a-5a9f-4160-8d71-6ccf77e9be9c" />
 <img width="1918" height="904" alt="Ekran görüntüsü 2026-04-14 152518" src="https://github.com/user-attachments/assets/ac8777ec-2230-402a-8b6d-a005d0b05d10" />
 <img width="1884" height="860" alt="Ekran görüntüsü 2026-04-14 152015" src="https://github.com/user-attachments/assets/a0b54d10-cf4b-430f-ace3-448735064b81" />
 <img width="1844" height="854" alt="Ekran görüntüsü 2026-04-14 152111" src="https://github.com/user-attachments/assets/a5d6d4f0-e889-42af-9f0a-470f12e2f18e" />
-<img width="283" height="873" alt="Ekran görüntüsü 2026-04-14 152604" src="https://github.com/user-attachments/assets/e115df41-3538-4e48-adfa-fcf8c540e5ac" />
-<img width="261" height="164" alt="Ekran görüntüsü 2026-04-14 152558" src="https://github.com/user-attachments/assets/8fafbbe5-0522-4117-ad8a-fdecc80d85e7" />
-<img width="237" height="170" alt="Ekran görüntüsü 2026-04-14 152554" src="https://github.com/user-attachments/assets/7b00f160-e1f4-49a5-afd4-53611f3c722c" />
-<img width="284" height="312" alt="Ekran görüntüsü 2026-04-14 152551" src="https://github.com/user-attachments/assets/386cffe4-89ba-4d0d-8a9c-ba6bd25a5621" />
-<img width="226" height="196" alt="Ekran görüntüsü 2026-04-14 152546" src="https://github.com/user-attachments/assets/b66ef888-c232-4ee8-bb5e-23a7bf93b167" />
-<img width="277" height="418" alt="Ekran görüntüsü 2026-04-14 152542" src="https://github.com/user-attachments/assets/0a0130fb-325d-4206-8df0-5402d1ee801f" />
+
