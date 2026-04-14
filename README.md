@@ -1,4 +1,4 @@
-!!! :bangbang: Bu çalışma, Hukuk Asistanı THEMIS projesinin teknik uygulanabilirliğini doğrulamak amacıyla hazırlanan bir Proof of Concept (PoC) çalışmasıdır. !!!
+:bangbang: Bu çalışma, Hukuk Asistanı THEMIS projesinin teknik uygulanabilirliğini doğrulamak amacıyla hazırlanan bir Proof of Concept (PoC) çalışmasıdır. 
 
 # Hukuk Asistanı Themis
 
